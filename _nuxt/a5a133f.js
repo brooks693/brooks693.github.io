@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{481:function(t,n,e){"use strict";e.r(n);var r={},l=e(31),c=e(108),o=e.n(c),w=e(419),component=Object(l.a)(r,(function(){var t=this.$createElement;return(this._self._c||t)("v-card",{attrs:{flat:""}})}),[],!1,null,null,null);n.default=component.exports;o()(component,{VCard:w.a})}}]);
